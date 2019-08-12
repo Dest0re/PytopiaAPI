@@ -12,4 +12,4 @@ print(a)
 
 
 ## PyPi
-https://test.pypi.org/project/PytopiaAPI/
+https://pypi.org/project/PytopiaAPI/
