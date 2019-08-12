@@ -1,6 +1,9 @@
 # PytopiaAPI
 Python API for Utopia Client.
 
+## How to install?
+```pip install PytopiaAPI```
+
 
 ## How to use?
 ```py
